@@ -7,3 +7,6 @@ It's mainly function as follow:
   2.Set voltage/current range;
   3.Fetch voltage/current from psu periodly.
   4.Switch the outpu of psu;
+
+If you want just to use it, you can download psu_viewer.rar, unzip it and double click psu_viewer.exe to run.
+Have fun!
